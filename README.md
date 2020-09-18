@@ -2,32 +2,25 @@
 
 ### Layout static sites using HTML / CSS with. Create responsive layout. Use Bootstrap 4 library.
 
-- xxx
+- [eGO restaurant Site](https://mariyalcs.github.io/restaurant/) - [eGO restaurant Repo](https://github.com/MariyaLcs/restaurant) - Built with Bootstrap 4
+- [Admin Dashboard Site](https://mariyalcs.github.io/admin-dashboard/) - [Admin Dashboard Repo](https://github.com/MariyaLcs/admin-dashboard) - Built with Bootstrap 4
+- [Town Gym Site](https://mariyalcs.github.io/local_gym/) - [Town Gym Repo](https://github.com/MariyaLcs/local_gym) - Built with Bootstrap 4
+- [BirdSpot Site](https://mariyalcs.github.io/BirdSpot/)- [BirdSpot Repo](https://github.com/MariyaLcs/BirdSpot) - Built with Bootstrap 4
 
 ### Receive and process data from third party APIs
 
-- xxx
-
-### Install and work with Webpack modular build tools
-
-- xxx
+- [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with icanhazdadjoke.com
+- [Movie Fight Site](https://mariyalcs.github.io/movie_battle/) - [Movie Fight Repo](https://github.com/MariyaLcs/movie_battle) - Built with React, axios, API with omdbapi.com
 
 ### Work with the ReactJS library
 
-- xxx
+- [Delivery App Site](https://mariyalcs.github.io/delivery/) - [Delivery App Repo](https://github.com/MariyaLcs/delivery) - Built with React, Bootstrap4, moment, axios
+- [ToDo App](https://github.com/MariyaLcs/todo-react-applictaion/) - [ToDo Repo](https://mariyalcs.github.io/todo-react-applictaion/) - Built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
 
-### Use the Flux concept using the Redux library
+### Master backend development with Node
 
-- xxx
-
-### Use Node.JS
-
-- xxx
+- [Rainbowhaven Site](https://techreturnersmarchcohort2020.github.io/rainbowhaven-react-frontend/) - [Rainbowhaven Repo](https://github.com/techReturnersMarchCohort2020/rainbowhaven-react-frontend) - Final project built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
 
 ### Work in an Agile team
 
-- xxx
-
 ### Apply the Git version control system
-
-- xxx
